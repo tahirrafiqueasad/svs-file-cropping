@@ -45,6 +45,12 @@ Following modules are needed:
    | xmax      | Bottom right x-coordinate | 100              |
    | ymax      | Bottom right y-coordinate | 200              |
 
+## Release:
+
+| Tag   | Date        | Description |
+| ----- | ----------- | ----------- |
+| 0.0.1 | 26-Aug-2021 | Test passed |
+
 ## Authors
 
 * **Muhammad Tahir Rafique**
