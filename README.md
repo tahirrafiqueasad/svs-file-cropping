@@ -1,6 +1,8 @@
 # svs-file-cropping
 
-SVS files are usually very large. It is not easy to crop these files. If we convert it to complete image than it will take lot of time to read in python using opencv or PIL. This repository provide a solution to crop the patch of image.
+SVS files are usually very large image files. It is not easy to crop these files. If we convert it to complete image than it will take lot of time to read in python using opencv or PIL. This repository provide a solution to crop the patch of image from SVS file.
+
+![plot](./images/img1.jpg)
 
 ## Prerequisites
 
